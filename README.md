@@ -10,27 +10,27 @@
 ![My Bio](https://github.com/naren9997/naren9997-src/blob/main/naren_bio.gif)
 
 ```javascript
-const anmol = {
+const Naren_Srini = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "electronics", "renewable"],
     technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React", "Redux"],
+           css: ["css-grids", "flexbox", "bootstrap"]
+     mobileApp: ["Android App"],
         },
+        
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node🚀"],
+            python: ["django"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["Docker🐳", "Nginx"],
+        cloud: ["AWS☁️", "Google Cloud"],
+        database: ["mongo", "MySql", "sqlite"],
+        misc: ["Github", "Trello", "neural-networks", "IoT", "Computer-Network", "SEO"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Comptetive Programming using C++",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["AWS Serverless Architecture", "Multiple-page web applications"],
 };
 ```
 <p align="center">

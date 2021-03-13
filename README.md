@@ -9,7 +9,30 @@
 # My Bio
 ![My Bio](https://github.com/naren9997/naren9997-src/blob/main/naren_bio.gif)
 
-
+```javascript
+const Naren_Srini = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "electronics", "renewable"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux"],
+           css: ["css-grids", "flexbox", "bootstrap"]
+     mobileApp: ["Android App"],
+        },
+        
+        backEnd: {
+            js: ["node🚀"],
+            python: ["django"]
+        },
+        devOps: ["Docker🐳", "Nginx"],
+        cloud: ["AWS☁️", "Google Cloud"],
+        database: ["mongo", "MySql", "sqlite"],
+        misc: ["Github", "Trello", "neural-networks", "IoT", "Computer-Network", "SEO"],
+    },
+    architecture: ["AWS Serverless Architecture", "Multiple-page web applications"],
+};
+```
 <p align="center">
   <a href="https://naren9997.github.io/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="web-portfolio"/></a>
   <a href="mailto:narenece0@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>

@@ -2,12 +2,12 @@
 -  👋 Hey, I’m @naren9997. Grad student from University of Windsor
 - 👀 I’m interested in JavaScript, React.js, HTML5, CSS3 ...
 - 🌱 I’m currently learning Python, MongoDB...
+- 💻 [View my Portfolio](https://naren9997.github.io/)
 - 💞️ I’m looking to collaborate on open-source, web development project...
 - 📫 Reach me on LinkedIn at www.linkedin.com/in/snarayanan-dev ...
 # My Bio
-<div>
 ![My Bio](https://github.com/naren9997/naren9997-src/blob/main/naren_bio.gif)
-</div>
+
 
 <p align="center">
   <a href="https://naren9997.github.io/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="web-portfolio"/></a>

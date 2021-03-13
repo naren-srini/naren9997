@@ -9,7 +9,30 @@
 # My Bio
 ![My Bio](https://github.com/naren9997/naren9997-src/blob/main/naren_bio.gif)
 
-
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Comptetive Programming using C++",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 <p align="center">
   <a href="https://naren9997.github.io/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="web-portfolio"/></a>
   <a href="mailto:narenece0@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>

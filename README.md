@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open-source, web development project...
 - 📫 Reach me on LinkedIn at www.linkedin.com/in/snarayanan-dev ...
 # My Bio
-<div align="center">
+<div>
 ![My Bio](https://github.com/naren9997/naren9997-src/blob/main/naren_bio.gif)
 </div>
 

@@ -7,8 +7,11 @@
 - 📫 Reach me on LinkedIn at www.linkedin.com/in/snarayanan-dev ...
 
 # My Bio
-![My Bio](https://github.com/naren9997/naren9997-src/blob/main/naren_bio.gif)
+<a align="center">
+![My Bio](https://github.com/naren9997/naren9997-src/blob/main/naren_bio.gif) 
+    </a>
 
+# A little bit about my skills
 ```javascript
 const Naren_Srini = {
     pronouns: "He" | "Him",

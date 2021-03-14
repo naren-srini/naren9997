@@ -18,7 +18,7 @@ const Naren_Srini = {
         frontEnd: {
             js: ["React", "Redux"],
            css: ["css-grids", "flexbox", "bootstrap"]
-     mobileApp: ["Android App"],
+           app: ["Android App"],
         },
         
         backEnd: {

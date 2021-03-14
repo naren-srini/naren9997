@@ -2,7 +2,6 @@
 -  👋 Hey, I’m @naren9997. Grad student from University of Windsor
 - 👀 I’m interested in JavaScript, React.js, HTML5, CSS3 ...
 - 🌱 I’m currently learning Python, MongoDB...
-- 💻 [View my Portfolio](https://naren9997.github.io/)
 - 💞️ I’m looking to collaborate on open-source, web development project...
 - 📫 Reach me on LinkedIn at www.linkedin.com/in/snarayanan-dev ...
 
@@ -48,4 +47,5 @@ const Naren_Srini = {
 <!---
 naren9997/naren9997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 💻 [View my Portfolio](https://naren9997.github.io/)
 --->

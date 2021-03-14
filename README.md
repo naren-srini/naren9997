@@ -17,14 +17,14 @@ const Naren_Srini = {
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
-           css: ["css-grids", "flexbox", "bootstrap"]
-           app: ["Android App"],
+           css: ["css-grids", "flexbox", "bootstrap"],
         },
         
         backEnd: {
             js: ["node🚀"],
             python: ["django"]
         },
+        app: ["Android App"],
         devOps: ["Docker🐳", "Nginx"],
         cloud: ["AWS☁️", "Google Cloud"],
         database: ["mongo", "MySql", "sqlite"],
